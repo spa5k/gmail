@@ -1,0 +1,6 @@
+{
+  "workbench.colorCustomizations": {},
+  /// autoomatically add .js to typescript imports
+  "javascript.preferences.importModuleSpecifierEnding": "js",
+  "typescript.preferences.importModuleSpecifierEnding": "js"
+}
